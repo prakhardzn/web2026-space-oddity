@@ -11,14 +11,13 @@
 }
 
 .post-foot {
-  /* TODO: same split as the byline */
+  /* TODO: same as the byline */
   margin-top: 2rem;
   padding-top: 1rem;
   border-top: 1px solid #e0e0e2;
   color: #666;
 }
 
-/* Styling below is done. Leave it. */
 .kicker {
   margin: 0;
   text-transform: uppercase;
