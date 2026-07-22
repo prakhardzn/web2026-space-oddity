@@ -1,11 +1,19 @@
 .post {
   /* TODO: center the column and give it a readable width
-     (max-width around 60ch, and margin to center it) */
+  (max-width around 60ch, and margin to center it) */
+  max-width: 60ch;
+  margin:0% auto;
+  padding: 2rem;
+
+  justify-content: center;
 }
+
 
 .byline {
   /* TODO: author on the left, date on the right, on one row */
   color: #666;
+  display:flex;
+  justify-content: space-between;
   font-size: 0.9rem;
   margin-top: 0.5rem;
 }
@@ -13,6 +21,8 @@
 .post-foot {
   /* TODO: same as the byline */
   margin-top: 2rem;
+  display: flex;
+    justify-content: space-between;
   padding-top: 1rem;
   border-top: 1px solid #e0e0e2;
   color: #666;
