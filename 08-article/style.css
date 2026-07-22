@@ -14,7 +14,7 @@
   color: #666;
   display:flex;
   justify-content: space-between;
-  font-size: 0.9rem;
+  font-size: 1.9rem;
   margin-top: 0.5rem;
 }
 
@@ -32,7 +32,7 @@
   margin: 0;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  font-size: 0.75rem;
+  font-size: 1.75rem;
   color: #2563eb;
 }
 
