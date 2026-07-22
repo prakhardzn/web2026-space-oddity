@@ -11,4 +11,4 @@ Four things are wrong:
 - They are not vertically centered.
 - `.links` has a `gap` but the links are still stacked, because `gap` does nothing until the element is a flex container too.
 
-Properties in play: `display`, `justify-content`, `align-items`, `gap`.
+Properties: `display`, `justify-content`, `align-items`, `gap`.

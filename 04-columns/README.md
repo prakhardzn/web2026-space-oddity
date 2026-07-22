@@ -7,5 +7,4 @@ Three feature blocks should sit side by side as equal-width columns with a gap b
 - `.features` is a flex row with a `gap`.
 - `.feature` gets `flex: 1` so the three columns share the width equally, whatever the text length.
 
-
-Properties in play: `display: flex`, `gap`, `flex: 1`.
+Properties: `display: flex`, `gap`, `flex: 1`.

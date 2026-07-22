@@ -30,6 +30,7 @@ Start from `index.html`. It links every exercise!
 | 08 | Article | Write the CSS (editorial page) |
 | 09 | Front page | Write the CSS (a whole page in flexbox) |
 
+**Extreme bonus round**: Can you create a COMMON menu that will help people navigate between each exercise, in each exercise's page? 
 
 ## References
 

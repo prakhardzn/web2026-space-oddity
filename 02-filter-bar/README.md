@@ -11,4 +11,4 @@ Two things are wrong:
 
 Fix both, then drag the window narrow and watch the buttons reflow onto new lines. `gap` applies to both the rows and the columns.
 
-Properties in play: `flex-wrap`, `gap`.
+Properties: `flex-wrap`, `gap`.
