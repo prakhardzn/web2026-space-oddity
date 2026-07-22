@@ -1,5 +1,8 @@
 .features {
   /* TODO: flex row with a gap */
+  display: flex;
+  flex: 1;
+  gap: 2rem;
 }
 
 .feature {
